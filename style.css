@@ -35,7 +35,6 @@ article {
 }
 
 article div {
-  text-align: center;
   width: 100%;
 }
 
@@ -77,4 +76,9 @@ footer {
 /* Other page elements */
 hr {
   border: 1px solid black;
+}
+
+.display-flex {
+  display: flex;
+  align-items: center;
 }
