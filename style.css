@@ -86,3 +86,7 @@ hr {
   flex: 1;
   margin: 10px;
 }
+
+.description-font-size {
+  font-size: 14px;
+}
